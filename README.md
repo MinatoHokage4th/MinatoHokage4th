@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Azure and AWS**
 
-- 👨‍💻 All of my projects are available at [minatohokage4th.github.io](minatohokage4th.github.io)
+- 👨‍💻 All of my projects are available at [minatohokage4th.github.io](https://minatohokage4th.github.io/)
 
-- 📝 I regularly write articles on [minatohokage4th.github.io](minatohokage4th.github.io)
+- 📝 I regularly write articles on [minatohokage4th.github.io](https://minatohokage4th.github.io/)
 
-- 📄 Know about my experiences [minatohokage4th.github.io](minatohokage4th.github.io)
+- 📄 Know about my experiences [minatohokage4th.github.io](https://minatohokage4th.github.io/)
 
 <h3 align="left">Connect with me: EMAIL</h3>
 <p align="left">
